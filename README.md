@@ -11,4 +11,4 @@ use your client id
 
    paypal needs to be funded at least $50 to add money to your paypal
 
-   THIS CODE ONLY FREE FOR 10 PEOPLE THEN WILL CODE $100 
+   THIS CODE ONLY FREE FOR 10 PEOPLE THEN WILL COST $100 
